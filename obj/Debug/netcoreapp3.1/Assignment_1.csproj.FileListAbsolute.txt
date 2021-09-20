@@ -1,0 +1,14 @@
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.AssemblyReference.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Assignment 1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
